@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @windlej
-- 👀 I’m interested in Running, Cars, & Cyber Security
-- 🌱 I’m currently learning Cyber Security
-
-<!---
-windlej/windlej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Jeremiah Windle
+- 👀 I’m interested in Containers, IaaC, & Site Reliability
+- 🌱 I’m currently studying Cloud Computing @ WGU
