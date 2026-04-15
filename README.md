@@ -1,46 +1,19 @@
-# Jeremiah Windle
+## Senior Desktop Analyst at a Healthcare MSP
 
-**L2 Helpdesk Technician (MSP) → Infrastructure Engineer**  
-Spokane, WA · 4+ years MSP · 100+ orgs · 3,000+ endpoints
+Managing infrastructure for 100+ organizations and 3,000+ endpoints — networks, security incidents, identity, firewalls, and backups across a wide client base.
 
----
-
-## Skills
-
-**Networking** — Cisco Meraki, Fortinet, Ubiquiti UniFi, Firewall, VPN, SD-WAN  
-**Systems** — Windows Server, Active Directory, Hyper-V, VMware ESXi, vSphere  
-**Cloud & Identity** — Microsoft Azure, Entra ID, Conditional Access, MFA, SSO  
-**Security** — SIEM (Kibana, Perch, Splunk), EDR (Huntress, Blackpoint, SentinelOne)  
-**Automation** — PowerShell, ImmyBot, Rewst  
+Filling the depth gap with a physical home lab (Cisco ASA, 3750G, Proxmox), active cert path toward Azure Solutions Architect, and automation work in PowerShell and Python.
 
 ---
 
-## Certifications
-
-| Cert | Status |
-|---|---|
-| CCNA | 🟡 In Progress |
-| VMware VCP-DCV | 🔲 Planned |
-| CompTIA Security+ | 🔲 Planned |
-| NetApp NCDA / Pure FlashArray | 🔲 Planned |
-| CCNP Enterprise | 🔲 Stretch Goal |
+### Daily Stack
+- **Networking** — Meraki, FortiGate, UniFi, VPN, SD-WAN, VLANs
+- **Security** — Huntress EDR, Entra ID Conditional Access, MFA, incident response
+- **Infrastructure** — Windows Server, AD, DNS/DHCP, Hyper-V, VMware, Proxmox
+- **Cloud & Identity** — Azure, Intune, Microsoft 365, Exchange Online, Hybrid AD
+- **Automation** — PowerShell, Python, ImmyBot, Rewst
 
 ---
 
-## Home Lab
-
-**Dell PowerEdge R630** + **HP ProLiant DL380** — building a two-host vSphere cluster with shared storage, VLAN segmentation, and live vMotion / HA failover practice.
-
----
-
-## Current Focus
-
-- Completing CCNA
-- Two-host vSphere lab build
-- Targeting Infrastructure Engineer roles in Enterprise IT and hosting
-
----
-
-## Goals
-
-Bridge into an **Infrastructure Engineer** role (Server, Storage & Networking), with a long-term target of **Senior/Principal Infrastructure Engineer/Architect**.
+### Certs
+✅ A+ · MS-900 · SC-900 | 🔄 CCNA | 🎯 AZ-104 → AZ-305
